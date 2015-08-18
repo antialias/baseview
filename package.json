@@ -1,0 +1,8 @@
+{
+  "name": "baseview",
+  "version": "0.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "backbone-base-and-form-view": "^0.8.4"
+  }
+}
